@@ -1,0 +1,34 @@
+[
+  {
+    "model": "guide.deliverytype",
+    "pk": 1,
+    "fields": {
+      "code": 1,
+      "title": "Доставка от двери до двери"
+    }
+  },
+  {
+    "model": "guide.deliverytype",
+    "pk": 2,
+    "fields": {
+      "code": 2,
+      "title": "Доставка от двери до отделения"
+    }
+  },
+  {
+    "model": "guide.deliverytype",
+    "pk": 3,
+    "fields": {
+      "code": 3,
+      "title": "Доставка от отделения до двери"
+    }
+  },
+  {
+    "model": "guide.deliverytype",
+    "pk": 4,
+    "fields": {
+      "code": 4,
+      "title": "Доставка от отделения до отделения"
+    }
+  }
+]
